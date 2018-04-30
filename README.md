@@ -1,2 +1,2 @@
-# HomeOfficeSpring
-Automation Framework with Spring
+# TestAutomationWithSpring
+Building Automation Framework with Spring
